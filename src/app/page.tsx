@@ -17,6 +17,11 @@ export default function Home() {
                         📒CSV Viewer
                     </div>
                 </Link>
+                <Link href="https://go5.run/status/">
+                    <div className="cursor-pointer">
+                        👣base status
+                    </div>
+                </Link>
             </div>
         </main>
     )
