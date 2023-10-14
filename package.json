@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@cloudflare/next-on-pages": "^1.5.0",
+    "@headlessui/react": "^1.7.17",
     "@types/node": "20.4.10",
     "@types/papaparse": "^5.3.7",
     "@types/react": "18.2.20",
