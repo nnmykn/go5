@@ -10,7 +10,7 @@ export default function Home() {
                 color: transparent;
                 background-image: url('/Gradient-small.png');
                 background-size: 300% 300%;
-                filter: brightness(1.2);
+                filter: brightness(1.1);
                 background-clip: text;
                 -webkit-background-clip: text;
                 animation: rotation 10s infinite linear alternate;
@@ -27,7 +27,7 @@ export default function Home() {
             `}</style>
             <Link href={'https://go5.run/'}>
                 <h1 className={`text-center text-5xl font-extrabold rotate`}>
-                    Go5 Lab.
+                    Go5 Lab.🧪
                 </h1>
             </Link>
         </main>
